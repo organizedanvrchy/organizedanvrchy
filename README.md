@@ -1,6 +1,6 @@
 👋 Hi, I’m @organizedanvrchy
 - 😄 Pronouns: He/Him/His
-- 👀 I’m interested in programming, video games, keyboard, and tennis/table tennis
+- 👀 I’m interested in programming, video games, keyboards, and tennis/table tennis
 - 🌱 I’m currently learning C/C++ and Python
 - 📫 Reach me @anvrchy1 on Discord
 
