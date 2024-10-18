@@ -37,8 +37,30 @@
   <tr>
     <td>Semester</td>
     <td>Class</td>
+  </tr>
+  <tr>
     <td>Fall 2023</td>
     <td>CPS500 - Programming & Data Structures</td>
+  </tr>
+  <tr>
+    <td>Spring 2024</td>
+    <td>CIS675 - Design & Analysis of Algorithms</td>
+  </tr>
+  <tr>
+    <td>Spring 2024</td>
+    <td>CSE687 - Object Oriented Design</td>
+  </tr>
+  <tr>
+    <td>Summer 2024</td>
+    <td>CSE643 - Computer Security</td>
+  </tr>
+  <tr>
+    <td>Fall 2024</td>
+    <td>CIS655 - Advanced Computer Architecture</td>
+  </tr>
+  <tr>
+    <td>Fall 2024</td>
+    <td>CIS657 - Principles of Operating Systems</td>
   </tr>
 </table>
 
