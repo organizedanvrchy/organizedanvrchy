@@ -17,7 +17,6 @@
 <table>
   <tr>
     <!-- First line without emoji -->
-    <td></td>
     <td style="padding-left: 10px;">I'm currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.</td>
   </tr>
 </table>
