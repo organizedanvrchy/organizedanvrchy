@@ -1,3 +1,4 @@
+<!-- Image and introduction text -->
 <table>
   <tr>
     <td>
@@ -13,11 +14,28 @@
   </tr>
 </table>
 
+<!-- Details with emojis on one side -->
+<table>
+  <!-- First line without emoji -->
+  <tr>
+    <td></td>
+    <td style="padding-left: 10px;">I'm currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.</td>
+  </tr>
+  <!-- Lines with emojis -->
+  <tr>
+    <td>👾</td>
+    <td style="padding-left: 10px;">I’m interested in programming, video games, keyboards, and tennis/table tennis.</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td style="padding-left: 10px;">I’m currently learning C/C++, Python, and React.</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td style="padding-left: 10px;">Reach me on Discord @anvrchy1 or send me an email at theanvrchy@gmail.com.</td>
+  </tr>
+</table>
 
- I'm currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.
-- :space_invader: I’m interested in programming, video games, keyboards, and tennis/table tennis.
-- :brain: I’m currently learning C/C++, Python, and React.
-- 📫 Reach me on Discord @anvrchy1 or send me an email at theanvrchy@gmail.com.
 
 <!---
 organizedanvrchy/organizedanvrchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
