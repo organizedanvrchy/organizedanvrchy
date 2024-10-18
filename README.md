@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-# [Syracuse University (2023-2025)](https://github.com/organizedanvrchy/SU-CIS-CSE)
+# [Syracuse University (2023 - Present)](https://github.com/organizedanvrchy/SU-CIS-CSE)
 <table>
   <tr>
     <td>Semester</td>
