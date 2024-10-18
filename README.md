@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>🧠</td>
-    <td style="padding-left: 10px;">Learning C/C++, Python, JavaScript, HTML, and React.</td>
+    <td style="padding-left: 10px;">Learning C/C++, Python, JavaScript, HTML, and React, with more of a focus on low-level programming and hopes to work on Brain-Computer Interfaces (BCIs)</td>
   </tr>
   <tr>
     <td>📫</td>
