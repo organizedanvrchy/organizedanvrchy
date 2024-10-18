@@ -8,8 +8,8 @@
 </div>
 
  I'm currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.
-- 👀 I’m interested in programming, video games, keyboards, and tennis/table tennis.
-- 🌱 I’m currently learning C/C++, Python, and React.
+- :space_invader: I’m interested in programming, video games, keyboards, and tennis/table tennis.
+- :brain: I’m currently learning C/C++, Python, and React.
 - 📫 Reach me on Discord @anvrchy1 or send me an email at theanvrchy@gmail.com.
 
 <!---
