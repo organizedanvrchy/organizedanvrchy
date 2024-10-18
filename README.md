@@ -14,13 +14,15 @@
   </tr>
 </table>
 
-<!-- Details with emojis on one side -->
 <table>
-  <!-- First line without emoji -->
   <tr>
+    <!-- First line without emoji -->
     <td></td>
     <td style="padding-left: 10px;">I'm currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.</td>
   </tr>
+</table>
+
+<table>
   <!-- Lines with emojis -->
   <tr>
     <td>👾</td>
