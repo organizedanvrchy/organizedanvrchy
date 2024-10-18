@@ -41,48 +41,8 @@
 # CodePath (2024)
 <table>
   <tr>
-    <td>TIP103</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 1</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 2</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 3</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 4</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 5</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 6</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 7</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 8</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 9</td>
-    <td>Topics</td>
-  </tr>
-  <tr>
-    <td>Week 10</td>
-    <td>Topics</td>
+    <td>**Class**</td>
+    <td>TIP103 - Advanced Technical Interview Prep</td>
   </tr>
 </table>
 
