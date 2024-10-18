@@ -9,7 +9,7 @@
       </picture>
     </td>
     <td style="padding-left: 10px;">
-      Hello, I’m Vimal! (or @organizedanvrchy here on GitHub).
+      Hello, I’m Vimal! (or @organizedanvrchy here on GitHub). I hold a Bachelor of Science in Biology with a minor in Mathematics, and I am currently pursuing a Master’s degree in Computer Science at Syracuse University’s College of Engineering and Computer Science.
     </td>
   </tr>
 </table>
@@ -18,12 +18,6 @@
 
 <table>
   <!-- Lines with emojis -->
-  <tr>
-    <td>:man_student:</td>
-    <td style="padding-left: 10px;">I hold a Bachelor of Science in Biology with a minor in Mathematics, and I am currently pursuing a Master’s degree in Computer Science at Syracuse University’s College of Engineering and Computer Science.
-    </td>
-  </tr>
-  
   <tr>
     <td>👾</td>
     <td style="padding-left: 10px;">Interested in programming, video games, keyboards, and tennis/table tennis.</td>
