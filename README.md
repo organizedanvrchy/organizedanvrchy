@@ -67,7 +67,7 @@
 # [CodePath (2024)](https://github.com/organizedanvrchy/CodePath)
 <table>
   <tr>
-    <td>Class</td>
+    <td>Fall 2024</td>
     <td><a href="https://github.com/organizedanvrchy/CodePath/tree/main/TIP103" target="_blank">TIP103 - Advanced Technical Interview Prep</td>
   </tr>
 </table>
