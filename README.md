@@ -42,11 +42,7 @@
 <table>
   <tr>
     <td>Class</td>
-    <td>TIP103 - Advanced Technical Interview Prep</td>
-  </tr>
-  <tr>
-    <td>Repo</td>
-    <td><a href="https://github.com/yourusername/your-repo" target="_blank">CodePath Repo</a></td>
+    <td><a href="https://github.com/organizedanvrchy/CodePath" target="_blank">TIP103 - Advanced Technical Interview Prep</td>
   </tr>
 </table>
 
