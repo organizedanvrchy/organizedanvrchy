@@ -20,17 +20,17 @@
   <!-- Lines with emojis -->
   <tr>
     <td>:man_student:</td>
-    <td style="padding-left: 10px;">I'm currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.
+    <td style="padding-left: 10px;">Currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.
     </td>
   </tr>
   
   <tr>
     <td>👾</td>
-    <td style="padding-left: 10px;">I’m interested in programming, video games, keyboards, and tennis/table tennis.</td>
+    <td style="padding-left: 10px;">Interested in programming, video games, keyboards, and tennis/table tennis.</td>
   </tr>
   <tr>
     <td>🧠</td>
-    <td style="padding-left: 10px;">I’m currently learning C/C++, Python, and React.</td>
+    <td style="padding-left: 10px;">Learning C/C++, Python, and React.</td>
   </tr>
   <tr>
     <td>📫</td>
