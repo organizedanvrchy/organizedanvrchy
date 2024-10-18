@@ -12,11 +12,9 @@
       Hello, I’m Vimal! (or @organizedanvrchy here on GitHub).
     </td>
   </tr>
-  <tr>
-    <!-- First line without emoji -->
-    <td style="padding-left: 10px;">I'm currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.</td>
-  </tr>
 </table>
+
+I'm currently a Masters of Computer Science student at Syracuse University - College of Engineering and Computer Science.
 
 <table>
   <!-- Lines with emojis -->
