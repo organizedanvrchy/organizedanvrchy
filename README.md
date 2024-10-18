@@ -32,6 +32,16 @@
   </tr>
 </table>
 
+# [Syracuse University (2023-2025)](https://github.com/organizedanvrchy/SU-CIS-CSE)
+<table>
+  <tr>
+    <td>Semester</td>
+    <td>Class</td>
+    <td>Fall 2023</td>
+    <td>CPS500 - Programming & Data Structures</td>
+  </tr>
+</table>
+
 # [CodePath (2024)](https://github.com/organizedanvrchy/CodePath)
 <table>
   <tr>
