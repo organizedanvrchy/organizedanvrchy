@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>🧠</td>
-    <td style="padding-left: 10px;">Learning C/C++, Python, and React.</td>
+    <td style="padding-left: 10px;">Learning C/C++, Python, JavaScript, HTML, and React.</td>
   </tr>
   <tr>
     <td>📫</td>
