@@ -47,6 +47,16 @@
 </table>
 
 <!---
+# Syracuse University
+<table>
+  <tr>
+    <td>Class</td>
+    <td><a href="https://github.com/organizedanvrchy/CodePath" target="_blank">TIP103 - Advanced Technical Interview Prep</td>
+  </tr>
+</table>
+--->
+
+<!---
 organizedanvrchy/organizedanvrchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
