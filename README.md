@@ -38,10 +38,10 @@
   </tr>
 </table>
 
-# CodePath
+# CodePath (2024)
 <table>
   <tr>
-    <td>Week</td>
+    <td>TIP103</td>
     <td>Topics</td>
   </tr>
   <tr>
