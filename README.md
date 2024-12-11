@@ -72,12 +72,13 @@
   </tr>
 </table>
 
-<!---
-# Syracuse University
+<---
+# [Projects](https://github.com/organizedanvrchy/Projects)
 <table>
   <tr>
-    <td>Class</td>
-    <td><a href="https://github.com/organizedanvrchy/CodePath" target="_blank">TIP103 - Advanced Technical Interview Prep</td>
+    <td><a href="https://github.com/organizedanvrchy/Projects/tree/main/Beginner">Beginner</td>
+    <td><a href="https://github.com/organizedanvrchy/Projects/tree/main/Intermediate">Intermediate</td>
+    <td><a href="https://github.com/organizedanvrchy/Projects">Expert</td>
   </tr>
 </table>
 --->
