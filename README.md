@@ -68,7 +68,7 @@
 <table>
   <tr>
     <td>Fall 2024</td>
-    <td><a href="https://github.com/organizedanvrchy/CodePath/tree/main/TIP103" target="_blank">TIP103 - Advanced Technical Interview Prep</td>
+    <td><a href="https://github.com/organizedanvrchy/CodePath/tree/main/TIP103#table-of-contents" target="_blank">TIP103 - Advanced Technical Interview Prep</td>
   </tr>
 </table>
 
