@@ -62,6 +62,10 @@
     <td>Fall 2024</td>
     <td>CIS657 - Principles of Operating Systems</td>
   </tr>
+  <tr>
+    <td>Winter 2025</td>
+    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS663%20-%20Biometrics">CIS663 - Biometrics</td>
+  </tr>
 </table>
 
 # [CodePath (2024)](https://github.com/organizedanvrchy/CodePath)
