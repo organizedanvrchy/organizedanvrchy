@@ -45,7 +45,8 @@
     <td>CPS500 - Programming & Data Structures</td>
   </tr>
   <tr>
-    <td>Spring 2024</td>
+    <td>Spring</td>
+    <td>2024</td>
     <td>CIS675 - Design & Analysis of Algorithms</td>
   </tr>
   <tr>
