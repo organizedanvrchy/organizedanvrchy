@@ -35,11 +35,13 @@
 # [Syracuse University (2023 - Present)](https://github.com/organizedanvrchy/SU-CIS-CSE)
 <table>
   <tr>
-    <td>Semester</td>
+    <td>Cohort</td>
+    <td>Year</td>
     <td>Class</td>
   </tr>
   <tr>
-    <td>Fall 2023</td>
+    <td>Fall</td>
+    <td>2023</td>
     <td>CPS500 - Programming & Data Structures</td>
   </tr>
   <tr>
@@ -47,23 +49,28 @@
     <td>CIS675 - Design & Analysis of Algorithms</td>
   </tr>
   <tr>
-    <td>Spring 2024</td>
+    <td>Spring</td>
+    <td>2024</td>
     <td>CSE687 - Object Oriented Design</td>
   </tr>
   <tr>
-    <td>Summer 2024</td>
+    <td>Summer</td>
+    <td>2024</td>
     <td>CSE643 - Computer Security</td>
   </tr>
   <tr>
-    <td>Fall 2024</td>
+    <td>Fall</td>
+    <td>2024</td>
     <td>CIS655 - Advanced Computer Architecture</td>
   </tr>
   <tr>
-    <td>Fall 2024</td>
+    <td>Fall</td>
+    <td>2024</td>
     <td>CIS657 - Principles of Operating Systems</td>
   </tr>
   <tr>
-    <td>Winter 2025</td>
+    <td>Winter</td>
+    <td>2025</td>
     <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS663%20-%20Biometrics">CIS663 - Biometrics</td>
   </tr>
 </table>
@@ -71,7 +78,8 @@
 # [CodePath (2024)](https://github.com/organizedanvrchy/CodePath)
 <table>
   <tr>
-    <td>Fall 2024</td>
+    <td>Fall</td>
+    <td>2024</td>
     <td><a href="https://github.com/organizedanvrchy/CodePath/tree/main/TIP103#table-of-contents" target="_blank">TIP103 - Advanced Technical Interview Prep</td>
   </tr>
 </table>
