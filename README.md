@@ -72,7 +72,7 @@
   <tr>
     <td>Winter</td>
     <td>2025</td>
-    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS663%20-%20Biometrics">CIS663 - Biometrics</td>
+    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS663%20-%20Biometrics">CIS663 - Biometrics*</td>
   </tr>
 </table>
 
