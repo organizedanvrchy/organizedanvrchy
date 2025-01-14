@@ -74,6 +74,11 @@
     <td>2025</td>
     <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS663%20-%20Biometrics">CIS663 - Biometrics*</td>
   </tr>
+  <tr>
+    <td>Winter</td>
+    <td>2025</td>
+    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS623%20-%20Assured%20Programming%20with%20Formal%20Methods">CIS623 - Assured Programming & Formal Methods*</td>
+  </tr>
 </table>
 
 # [CodePath (2024)](https://github.com/organizedanvrchy/CodePath)
