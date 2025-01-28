@@ -52,7 +52,7 @@
   <tr>
     <td>Spring</td>
     <td>2024</td>
-    <td>CSE687 - Object Oriented Design</td>
+    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CSE687%20-%20Object%20Oriented%20Design">CSE687 - Object Oriented Design</td>
   </tr>
   <tr>
     <td>Summer</td>
