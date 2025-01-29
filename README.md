@@ -81,7 +81,7 @@
   </tr>
 </table>
 
-# [CodePath (2024)](https://github.com/organizedanvrchy/CodePath)
+# [Amazon CodePath (2024)](https://github.com/organizedanvrchy/CodePath)
 <table>
   <tr>
     <td>Fall</td>
