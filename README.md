@@ -62,7 +62,7 @@
   <tr>
     <td>Fall</td>
     <td>2024</td>
-    <td>CIS655 - Advanced Computer Architecture</td>
+    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS655%20-%20Advanced%20Computer%20Architecture">CIS655 - Advanced Computer Architecture</td>
   </tr>
   <tr>
     <td>Fall</td>
