@@ -106,6 +106,7 @@
 | [Adventure Game](https://github.com/organizedanvrchy/Adventure-Game)        | Python               | 2024-11-18    | 2024-11-18   |
 | [Blackjack](https://github.com/organizedanvrchy/Blackjack)        | Python               | 2024-12-05    | 2024-12-05   |
 | [Blind Auction](https://github.com/organizedanvrchy/Blind-Auction)        | Python               | 2024-11-23    | 2024-11-23   |
+| [Chess w/ AI Opp](https://github.com/organizedanvrchy/Chess)        | Python             | 2025-03-05    | 2025-03-05   |
 | [Caesar Cipher](https://github.com/organizedanvrchy/Caesar-Cipher)        | Python               | 2024-11-20    | 2024-11-20   |
 | [Coffee Machine](https://github.com/organizedanvrchy/Coffee-Machine)        | Python               | 2024-12-10    | 2024-12-10   |
 | [Etch-A-Sketch](https://github.com/organizedanvrchy/Etch-A-Sketch)        | Python               | 2024-12-30    | 2025-02-12   |
