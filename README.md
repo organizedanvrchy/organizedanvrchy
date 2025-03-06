@@ -37,7 +37,7 @@
 # [Syracuse University (2023 - Present)](https://github.com/organizedanvrchy/SU-CIS-CSE)
 <table>
   <tr>
-    <td>Cohort</td>
+    <td>Semester</td>
     <td>Year</td>
     <td>Class</td>
   </tr>
@@ -86,7 +86,7 @@
 # [Amazon CodePath (2024)](https://github.com/organizedanvrchy/CodePath)
 <table>
   <tr>
-    <td>Cohort</td>
+    <td>Semester</td>
     <td>Year</td>
     <td>Class</td>
   </tr>
