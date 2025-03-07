@@ -126,6 +126,7 @@
 | [Squirrel Census](https://github.com/organizedanvrchy/Squirrel-Census)        | Python               | 2025-02-11    | 2025-02-12   |
 | [TicTacToe](https://github.com/organizedanvrchy/TicTacToe)        | C               | 2024-11-20    | 2024-11-20   |
 | [To-Do](https://github.com/organizedanvrchy/To-Do-App)        | Python               | 2024-11-20    | 2024-11-20   |
+| [To-Do - Web App](https://github.com/organizedanvrchy/To-Do-Web-App)        | Python               | 2025-03-06    | 2025-03-06   |
 | [Turtle Race](https://github.com/organizedanvrchy/Turtle-Race)        | Python               | 2024-12-30    | 2025-02-12   |
 | [U.S. States Game](https://github.com/organizedanvrchy/U.S.-States-Game)        | Python               | 2025-02-12    | 2025-02-15   |
 | [YouTube Clone](https://github.com/organizedanvrchy/Youtube-Clone)        | TypeScript               | 2025-01-07    | 2025-01-15   |
