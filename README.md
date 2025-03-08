@@ -110,6 +110,7 @@
 | [Caesar Cipher](https://github.com/organizedanvrchy/Caesar-Cipher)        | Python               | 2024-11-20    | 2024-11-20   |
 | [Coffee Machine](https://github.com/organizedanvrchy/Coffee-Machine)        | Python               | 2024-12-10    | 2024-12-10   |
 | [Etch-A-Sketch](https://github.com/organizedanvrchy/Etch-A-Sketch)        | Python               | 2024-12-30    | 2025-02-12   |
+| [Face Authentication for POS Systems (Simulation)](https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems)        | Python               | 2025-02-01    | 2025-03-08  |
 | [Gadgets Selling App](https://github.com/organizedanvrchy/Gadgets-App)        | TypeScript               | 2025-03-03    | 2025-03-03   |
 | [Hangman](https://github.com/organizedanvrchy/Hangman)        | Python               | 2024-11-17    | 2024-11-18   |
 | [Instruction Set Project - CIS655](https://github.com/organizedanvrchy/cis-655-instruction-set)        | C++               | 2024-10-15    | 2025-03-03   |
