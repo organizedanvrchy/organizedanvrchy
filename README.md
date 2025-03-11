@@ -101,17 +101,22 @@
 
 # [Projects](https://github.com/organizedanvrchy/Projects)
 
-## Advanced Projects
+# Projects
+
 <table>
-  <thead>
-    <tr>
-      <th style="width: 40%;">Project Name</th>
-      <th style="width: 20%;">Programming Language</th>
-      <th style="width: 20%;">Creation Date</th>
-      <th style="width: 20%;">Last Updated</th>
-    </tr>
-  </thead>
   <tbody>
+    <thead>
+      <!-- Advanced Projects -->
+      <tr>
+        <th colspan="4" style="text-align: center; font-size: 1.2em; background-color: #f0f0f0;">Advanced Projects</th>
+      </tr>
+      <tr>
+        <th style="width: 40%;">Project Name</th>
+        <th style="width: 20%;">Programming Language</th>
+        <th style="width: 20%;">Creation Date</th>
+        <th style="width: 20%;">Last Updated</th>
+      </tr>
+    </thead>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Chess">Chess w/ AI Opp</a></td>
       <td>Python</td>
@@ -131,7 +136,7 @@
       <td>2025-03-03</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/Object-Oriented-Design-Project">(CIS687) Object Oriented Design Project</td>
+      <td><a href="https://github.com/organizedanvrchy/Object-Oriented-Design-Project">(CIS687) Object Oriented Design Project</a></td>
       <td>C++</td>
       <td>2024-04-08</td>
       <td>2025-03-04</td>
@@ -148,21 +153,22 @@
       <td>2025-01-07</td>
       <td>2025-01-15</td>
     </tr>
-  </tbody>
-</table>
-
-
-## Intermediate Projects
-<table>
-  <thead>
-    <tr>
-      <th style="width: 40%;">Project Name</th>
-      <th style="width: 20%;">Programming Language</th>
-      <th style="width: 20%;">Creation Date</th>
-      <th style="width: 20%;">Last Updated</th>
-    </tr>
-  </thead>
-  <tbody>
+    <thead>
+      <!-- Blank Row -->
+      <tr>
+        <td colspan="4" style="height: 10px;"></td>
+      </tr>
+      <!-- Intermediate Projects -->
+      <tr>
+        <th colspan="4" style="text-align: center; font-size: 1.2em; background-color: #f0f0f0;">Intermediate Projects</th>
+      </tr>
+      <tr>
+        <th style="width: 40%;">Project Name</th>
+        <th style="width: 20%;">Programming Language</th>
+        <th style="width: 20%;">Creation Date</th>
+        <th style="width: 20%;">Last Updated</th>
+      </tr>
+    </thead>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Etch-A-Sketch">Etch-A-Sketch</a></td>
       <td>Python</td>
@@ -229,20 +235,22 @@
       <td>2025-02-12</td>
       <td>2025-02-15</td>
     </tr>
-  </tbody>
-</table>
-
-## Beginner Projects
-<table>
-  <thead>
-    <tr>
-      <th style="width: 40%;">Project Name</th>
-      <th style="width: 20%;">Programming Language</th>
-      <th style="width: 20%;">Creation Date</th>
-      <th style="width: 20%;">Last Updated</th>
-    </tr>
-  </thead>
-  <tbody>
+    <thead>
+      <!-- Blank Row -->
+      <tr>
+        <td colspan="4" style="height: 10px;"></td>
+      </tr>
+      <!-- Beginner Projects -->
+      <tr>
+        <th colspan="4" style="text-align: center; font-size: 1.2em; background-color: #f0f0f0;">Beginner Projects</th>
+      </tr>
+      <tr>
+        <th style="width: 40%;">Project Name</th>
+        <th style="width: 20%;">Programming Language</th>
+        <th style="width: 20%;">Creation Date</th>
+        <th style="width: 20%;">Last Updated</th>
+      </tr>
+    </thead>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Adventure-Game">Adventure Game</a></td>
       <td>Python</td>
