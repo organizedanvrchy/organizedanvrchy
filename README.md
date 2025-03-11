@@ -101,8 +101,6 @@
 
 # [Projects](https://github.com/organizedanvrchy/Projects)
 
-# Projects
-
 <table>
   <tbody>
     <thead>
