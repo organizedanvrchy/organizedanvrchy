@@ -125,7 +125,7 @@
       <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">(CIS663) Face Authentication Project</a></td>
       <td>Python</td>
       <td>2025-02-01</td>
-      <td>2025-03-08</td>
+      <td>2025-03-14</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/cis-655-instruction-set">(CIS655) Instruction Set Project</a></td>
