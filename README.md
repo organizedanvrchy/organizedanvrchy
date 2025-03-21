@@ -219,7 +219,7 @@
       <td><a href="https://github.com/organizedanvrchy/To-Do-Web-App">To-Do - Web App</a></td>
       <td>Python</td>
       <td>2025-03-06</td>
-      <td>2025-03-06</td>
+      <td>2025-03-20</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Turtle-Race">Turtle Race</a></td>
