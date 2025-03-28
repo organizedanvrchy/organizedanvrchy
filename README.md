@@ -204,6 +204,12 @@
       <td>2025-02-12</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/organizedanvrchy/Spanish-Flashcards-App">Spanish-Flashcards-App</a></td>
+      <td>Python</td>
+      <td>2025-03-25</td>
+      <td>2025-03-27</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/organizedanvrchy/TicTacToe">TicTacToe</a></td>
       <td>C</td>
       <td>2024-11-20</td>
