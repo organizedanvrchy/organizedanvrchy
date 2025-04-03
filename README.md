@@ -150,7 +150,7 @@
       <td>2025-03-04</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/Gadgets-App">Gadgets Selling App</a></td>
+      <td><a href="https://github.com/organizedanvrchy/Gadgets-App">Gadgets Selling App**</a></td>
       <td>TypeScript</td>
       <td>2025-03-03</td>
       <td>2025-03-03</td>
