@@ -74,12 +74,22 @@
   <tr>
     <td>Winter</td>
     <td>2025</td>
-    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS663%20-%20Biometrics">CIS663 - Biometrics*</td>
+    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS663%20-%20Biometrics">CIS663 - Biometrics</td>
   </tr>
   <tr>
     <td>Winter</td>
     <td>2025</td>
-    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS623%20-%20Assured%20Programming%20with%20Formal%20Methods">CIS623 - Assured Programming & Formal Methods*</td>
+    <td><a href="https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS623%20-%20Assured%20Programming%20with%20Formal%20Methods">CIS623 - Assured Programming & Formal Methods</td>
+  </tr>
+  <tr>
+    <td>Spring</td>
+    <td>2025</td>
+    <td>CIS628 - Cryptography*</td>
+  </tr>
+  <tr>
+    <td>Spring</td>
+    <td>2025</td>
+    <td>CIS735 - Machine Learning for Security*</td>
   </tr>
 </table>
 
