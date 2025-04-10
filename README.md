@@ -153,7 +153,7 @@
       <td><a href="https://github.com/organizedanvrchy/Gadgets-App">Gadgets Selling App**</a></td>
       <td>TypeScript</td>
       <td>2025-03-03</td>
-      <td>2025-04-09</td>
+      <td>2025-04-10</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Youtube-Clone">YouTube Clone</a></td>
