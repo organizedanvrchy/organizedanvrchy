@@ -132,19 +132,19 @@
       <td>2025-03-05</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">(CIS663) Face Authentication Project</a></td>
+      <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Face Authentication Project</a></td>
       <td>Python</td>
       <td>2025-02-01</td>
       <td>2025-03-14</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/cis-655-instruction-set">(CIS655) Instruction Set Project</a></td>
+      <td><a href="https://github.com/organizedanvrchy/cis-655-instruction-set">Instruction Set Project</a></td>
       <td>C++</td>
       <td>2024-10-15</td>
       <td>2025-03-03</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/Object-Oriented-Design-Project">(CIS687) Object Oriented Design Project</a></td>
+      <td><a href="https://github.com/organizedanvrchy/Object-Oriented-Design-Project">Object Oriented Design Project</a></td>
       <td>C++</td>
       <td>2024-04-08</td>
       <td>2025-03-04</td>
@@ -160,6 +160,9 @@
       <td>TypeScript</td>
       <td>2025-01-07</td>
       <td>2025-01-15</td>
+    </tr>
+    <tr>
+      <td colspan = "4" align = "center"><a href="https://github.com/organizedanvrchy/Projects">All Projects</a></td>
     </tr>
 </table>
 
