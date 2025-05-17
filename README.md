@@ -9,7 +9,7 @@
       </picture>
     </td>
     <td style="padding-left: 10px;">
-      Hello, I’m Vimal! (or @organizedanvrchy here on GitHub). I hold a Bachelor of Science in Biology with a minor in Mathematics, and I am currently pursuing a Master’s degree in Computer Science at Syracuse University’s College of Engineering and Computer Science.
+      Hello, I’m Vimal! (or @organizedanvrchy here on GitHub). I hold a Bachelor of Science in Biology with a minor in Mathematics, and I am currently pursuing a Master’s Degree in Computer Science at Syracuse University’s College of Engineering and Computer Science.
     </td>
   </tr>
 </table>
