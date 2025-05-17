@@ -122,44 +122,37 @@
         <th style="width: 40%;">Project Name</th>
         <th style="width: 20%;">Programming Language</th>
         <th style="width: 20%;">Creation Date</th>
-        <th style="width: 20%;">Last Updated</th>
       </tr>
     </thead>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Chess">Chess w/ AI Opp</a></td>
       <td>Python</td>
       <td>2025-03-05</td>
-      <td>2025-03-05</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Face Authentication Project</a></td>
       <td>Python</td>
       <td>2025-02-01</td>
-      <td>2025-03-14</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/cis-655-instruction-set">Instruction Set Project</a></td>
       <td>C++</td>
       <td>2024-10-15</td>
-      <td>2025-03-03</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Object-Oriented-Design-Project">Object Oriented Design Project</a></td>
       <td>C++</td>
       <td>2024-04-08</td>
-      <td>2025-03-04</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Gadgets-App">Gadgets Selling App**</a></td>
       <td>TypeScript</td>
       <td>2025-03-03</td>
-      <td>2025-04-12</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Youtube-Clone">YouTube Clone</a></td>
       <td>TypeScript</td>
       <td>2025-01-07</td>
-      <td>2025-01-15</td>
     </tr>
     <tr>
       <td colspan = "4" align = "center"><a href="https://github.com/organizedanvrchy/Projects">All Projects</a></td>
