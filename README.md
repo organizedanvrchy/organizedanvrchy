@@ -130,7 +130,7 @@
       <td>2025-03-05</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Ensemble- Based Face Authentication (NN & OC-SVM) for POS Security</a></td>
+      <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Ensemble-Based Face Authentication (NN & OC-SVM) for POS Security</a></td>
       <td>Python</td>
       <td>2025-06-17</td>
     </tr>
