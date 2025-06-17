@@ -130,9 +130,9 @@
       <td>2025-03-05</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Face Authentication Project</a></td>
+      <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Ensemble- Based Face Authentication (NN & OC-SVM) for POS Security</a></td>
       <td>Python</td>
-      <td>2025-02-01</td>
+      <td>2025-06-17</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/cis-655-instruction-set">Instruction Set Project</a></td>
@@ -143,11 +143,6 @@
       <td><a href="https://github.com/organizedanvrchy/Object-Oriented-Design-Project">Object Oriented Design Project</a></td>
       <td>C++</td>
       <td>2024-04-08</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/organizedanvrchy/Gadgets-App">Gadgets Selling App**</a></td>
-      <td>TypeScript</td>
-      <td>2025-03-03</td>
     </tr>
     <tr>
       <td><a href="https://github.com/organizedanvrchy/Youtube-Clone">YouTube Clone</a></td>
