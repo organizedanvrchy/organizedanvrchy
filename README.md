@@ -9,7 +9,7 @@
       </picture>
     </td>
     <td style="padding-left: 10px;">
-      Hello, I’m Vimal! (or @organizedanvrchy here on GitHub). I hold a Bachelor of Science in Biology with a minor in Mathematics, and I am currently pursuing a Master’s Degree in Computer Science at Syracuse University’s College of Engineering and Computer Science.
+      Hi, I’m Vimal Ramnarain! (or @organizedanvrchy here on GitHub). I hold a Bachelor of Science in Biology with a minor in Mathematics, and I am currently pursuing a Master’s Degree in Computer Science at Syracuse University’s College of Engineering and Computer Science.
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>📫</td>
-    <td style="padding-left: 10px;">Reach me on Discord @anvrchy1 or send me an email at theanvrchy@gmail.com.</td>
+    <td style="padding-left: 10px;">Send me an email at vimalramnarain@gmail.com.</td>
   </tr>
 </table>
 
