@@ -20,11 +20,11 @@
   <!-- Lines with emojis -->
   <tr>
     <td>👾</td>
-    <td style="padding-left: 10px;">Interested in programming, video games, keyboards, and tennis/table tennis.</td>
+    <td style="padding-left: 10px;">I'm interested in programming, video games, keyboards, construction, and tennis/table tennis.</td>
   </tr>
   <tr>
     <td>🧠</td>
-    <td style="padding-left: 10px;">Learning C/C++, Python, JavaScript, Typescript, HTML, and React, with more of a focus on low-level programming and hopes to work on Brain-Computer Interfaces (BCIs)</td>
+    <td style="padding-left: 10px;">I'm currently learning C/C++, Python, JavaScript, Typescript, Kotlin, and React. I am hope to be a systems engineer someday...</td>
   </tr>
   <tr>
     <td>📫</td>
