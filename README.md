@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>🧠</td>
-    <td style="padding-left: 10px;">I'm currently learning C/C++, Python, JavaScript, Typescript, Kotlin, and React. I am hope to be a systems engineer someday...</td>
+    <td style="padding-left: 10px;">I'm currently learning C/C++, Python, JavaScript, Typescript, Kotlin, and React. I hope to be a Systems Engineer someday...</td>
   </tr>
   <tr>
     <td>📫</td>
