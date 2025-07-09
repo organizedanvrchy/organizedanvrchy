@@ -84,12 +84,17 @@
   <tr>
     <td>Spring</td>
     <td>2025</td>
-    <td>CIS628 - Cryptography*</td>
+    <td>CIS628 - Cryptography</td>
   </tr>
   <tr>
     <td>Spring</td>
     <td>2025</td>
-    <td>CIS735 - Machine Learning for Security*</td>
+    <td>CIS735 - Machine Learning for Security</td>
+  </tr>
+  <tr>
+    <td>Summer</td>
+    <td>2025</td>
+    <td>CSE682 - Software Engineering</td>
   </tr>
 </table>
 
