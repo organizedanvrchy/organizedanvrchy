@@ -9,7 +9,7 @@
       </picture>
     </td>
     <td style="padding-left: 10px;">
-      Hi, I’m Vimal Ramnarain! (or @organizedanvrchy here on GitHub). I hold a Bachelor of Science in Biology with a minor in Mathematics, and I am currently pursuing a Master’s Degree in Computer Science at Syracuse University’s College of Engineering and Computer Science.
+      Hi, I’m Vimal! (or @organizedanvrchy here on GitHub). I hold a Bachelor of Science in Biology with a minor in Mathematics, and I am currently pursuing a Master’s Degree in Computer Science at Syracuse University’s College of Engineering and Computer Science.
     </td>
   </tr>
 </table>
@@ -116,26 +116,21 @@
 
 # [Projects](https://github.com/organizedanvrchy/Projects)
 
+<!-- University Projects -->
 <table>
-  <tbody>
-    <thead>
-      <!-- Showcase Projects -->
-      <tr>
-        <th colspan="4" style="text-align: center; font-size: 1.2em; background-color: #f0f0f0;">Technical Showcase Projects</th>
-      </tr>
-      <tr>
-        <th style="width: 40%;">Project Name</th>
-        <th style="width: 20%;">Programming Language</th>
-        <th style="width: 20%;">Creation Date</th>
-      </tr>
-    </thead>
+  <thead>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/Chess">Chess w/ AI Opp</a></td>
-      <td>Python</td>
-      <td>2025-03-05</td>
+      <th colspan="3" style="text-align:center;">University Projects</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Ensemble-Based Face Authentication (NN & OC-SVM) for POS Security</a></td>
+      <th width="600">Project <br> Name</th>
+      <th width="150">Programming Language</th>
+      <th width="150">Committed <br> Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Ensemble-Based Face Authentication (NN &amp; OC-SVM) for POS Security</a></td>
       <td>Python</td>
       <td>2025-06-17</td>
     </tr>
@@ -150,15 +145,92 @@
       <td>2024-04-08</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/JacobWansor/TennisAPP">Tennis App Project (WIP)</a></td>
+      <td>Kotlin</td>
+      <td>2025-07-21</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Systems-Related Projects -->
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="3" style="text-align:center;">Systems-Related Projects</th>
+    </tr>
+    <tr>
+      <th width="600">Project <br> Name</th>
+      <th width="150">Programming Language</th>
+      <th width="150">Committed <br> Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/organizedanvrchy/rain_os">RainOS</a></td>
+      <td>Rust</td>
+      <td>2025-05-14</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/organizedanvrchy/rainy_shell">Rainy UNIX Shell</a></td>
+      <td>C</td>
+      <td>2025-07-01</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/organizedanvrchy/Text-Editor-Python">Simple Text Editor (Python)</a></td>
+      <td>Python</td>
+      <td>2025-08-19</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/organizedanvrchy/Regex-Parser-Python">Simple Regex Parser (Python)</a></td>
+      <td>Python</td>
+      <td>2025-08-20</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Tiny App Projects -->
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="3" style="text-align:center;">Tiny App Projects</th>
+    </tr>
+    <tr>
+      <th width="600">Project <br> Name</th>
+      <th width="150">Programming Language</th>
+      <th width="150">Committed <br> Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td><a href="https://github.com/organizedanvrchy/Youtube-Clone">YouTube Clone</a></td>
       <td>TypeScript</td>
       <td>2025-01-07</td>
     </tr>
     <tr>
-      <td colspan = "4" align = "center"><a href="https://github.com/organizedanvrchy/Projects">All Projects</a></td>
+      <td><a href="https://github.com/organizedanvrchy/TicTacToe">Tic-Tac-Toe</a></td>
+      <td>C</td>
+      <td>2025-03-03</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/organizedanvrchy/TicTacToe">Snake</a></td>
+      <td>Python</td>
+      <td>2025-03-04</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/organizedanvrchy/Pong">Pong</a></td>
+      <td>Python</td>
+      <td>2025-03-04</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/organizedanvrchy/Chess">Chess w/ AI Opp</a></td>
+      <td>Python</td>
+      <td>2025-03-05</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center"><a href="https://github.com/organizedanvrchy/Projects">All Projects</a></td>
+    </tr>
+  </tbody>
 </table>
-
 
 <!---
 organizedanvrchy/organizedanvrchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
