@@ -66,7 +66,7 @@
       <td>2024-04-08</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/organizedanvrchy/TennisAppDemo-Android-">Tennis App Project (WIP)</a></td>
+      <td><a href="https://github.com/organizedanvrchy/TennisAppDemo-Android-">Tennis App Project (Demo)</a></td>
       <td>Kotlin</td>
       <td>2025-07-21</td>
     </tr>
