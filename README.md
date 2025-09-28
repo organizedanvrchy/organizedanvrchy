@@ -215,7 +215,7 @@
   <tr>
     <td>Summer</td>
     <td>2025</td>
-    <td>CSE682 - Software Engineering</td>
+    <td><a href="https://github.com/organizedanvrchy/TennisAppDemo-Android-">CSE682 - Software Engineering</td>
   </tr>
 </table>
 
