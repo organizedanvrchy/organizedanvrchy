@@ -26,10 +26,6 @@
     <td>🧠</td>
     <td width="850", style="padding-left: 10px;">I'm currently learning C/C++, Python, Java, JavaScript, HTML, and CSS.</td>
   </tr>
-  <tr>
-    <td>📫</td>
-    <td width="850", style="padding-left: 10px;">Send me an email at vimalramnarain@gmail.com.</td>
-  </tr>
 </table>
 
 ---
