@@ -20,7 +20,7 @@
   <!-- Lines with emojis -->
   <tr>
     <td>👾</td>
-    <td width="850", style="padding-left: 10px;">I'm interested in programming, video games, keyboards, construction, and tennis/table tennis.</td>
+    <td width="850", style="padding-left: 10px;">I'm interested in programming, video games, keyboards, gardening, construction, and tennis/table tennis.</td>
   </tr>
   <tr>
     <td>🧠</td>
