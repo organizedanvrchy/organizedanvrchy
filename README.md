@@ -1,88 +1,132 @@
-<!-- Introduction -->
+<a href="https://organizedanvrchy.github.io/portfolioSPA/">
+  <img alt="Vimal Ramnarain, .NET Full Stack Developer" src="assets/banner.png" width="100%">
+</a>
+
+<p align="center">
+  <a href="https://organizedanvrchy.github.io/portfolioSPA/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-organizedanvrchy.github.io-2A835F?style=flat-square&logo=githubpages&logoColor=F7F2EB"></a>
+  <a href="https://www.linkedin.com/in/vimal-ramnarain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vimal--ramnarain-2A835F?style=flat-square"></a>
+  <a href="mailto:vimalramnarain@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vimalramnarain%40gmail.com-2A835F?style=flat-square&logo=gmail&logoColor=F7F2EB"></a>
+</p>
+
+## About Me
+
+I'm a **.NET Full Stack Developer** who builds web applications end to end: from the database and the API to the browser and the cloud. I hold an **M.S. in Computer Science** from Syracuse University and a **B.S. in Biology** with a minor in Mathematics. For a quick tour, visit my [portfolio](https://organizedanvrchy.github.io/portfolioSPA/).
+
 <table>
   <tr>
+    <td width="200"><b>Core Stack</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-        <img alt="An illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="75">
-      </picture>
+      <img alt="C#" src="https://img.shields.io/badge/C%23-12544F?style=flat-square&logo=dotnet&logoColor=F7F2EB">
+      <img alt=".NET" src="https://img.shields.io/badge/.NET-12544F?style=flat-square&logo=dotnet&logoColor=F7F2EB">
+      <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-12544F?style=flat-square&logo=dotnet&logoColor=F7F2EB">
+      <img alt="Angular" src="https://img.shields.io/badge/Angular-12544F?style=flat-square&logo=angular&logoColor=F7F2EB">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-12544F?style=flat-square&logo=typescript&logoColor=F7F2EB">
+      <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-12544F?style=flat-square&logo=microsoftsqlserver&logoColor=F7F2EB">
+      <img alt="Entity Framework Core" src="https://img.shields.io/badge/EF%20Core-12544F?style=flat-square&logo=dotnet&logoColor=F7F2EB">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-12544F?style=flat-square&logo=docker&logoColor=F7F2EB">
+      <img alt="Azure" src="https://img.shields.io/badge/Azure-12544F?style=flat-square&logo=microsoftazure&logoColor=F7F2EB">
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-12544F?style=flat-square&logo=githubactions&logoColor=F7F2EB">
     </td>
-    <td width="800">
-      <h3>Hi, I’m Vimal 👋</h3>
-      A <b>.NET Full Stack Developer</b> who builds web applications end to end, from the database to the browser to the cloud.
-      I hold an <b>M.S. in Computer Science</b> from Syracuse University and a <b>B.S. in Biology</b> with a minor in Mathematics.
+  </tr>
+  <tr>
+    <td><b>Also Experienced With</b></td>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-12544F?style=flat-square&logo=python&logoColor=F7F2EB">
+      <img alt="Java" src="https://img.shields.io/badge/Java-12544F?style=flat-square&logo=openjdk&logoColor=F7F2EB">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-12544F?style=flat-square&logo=javascript&logoColor=F7F2EB">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-12544F?style=flat-square&logo=html5&logoColor=F7F2EB">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-12544F?style=flat-square&logo=css&logoColor=F7F2EB">
     </td>
+  </tr>
+  <tr>
+    <td><b>Interests</b></td>
+    <td>Programming, video games, mechanical keyboards, gardening, construction, and tennis / table tennis</td>
   </tr>
 </table>
 
-- 💼 **Now:** .NET Full Stack Developer at **Revature**, building C#, ASP.NET Core and Angular applications, most recently a microservices insurance platform deployed to Azure with a team of three.
-- 🛠️ **Day to day:** C# · .NET · ASP.NET Core Web API · Angular · TypeScript · SQL Server · Entity Framework Core · ADO.NET · Docker · Azure · GitHub Actions
-- 🧠 **Also comfortable with:** Python · C/C++ · Rust · Kotlin · Java · JavaScript · HTML/CSS
-- 👾 **Off the keyboard (and on it):** video games, mechanical keyboards, gardening, construction, and tennis/table tennis.
+## Experience & Education
 
-<p>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-</p>
+### Revature
+**.NET Full Stack Developer** · 2026
 
----
-
-## ✨ Featured projects
-
-From a console app to a monolith to cloud microservices: three projects built at Revature, newest first.
+Building enterprise-style applications with C#, ASP.NET Core, Angular and SQL Server, from a console application to a monolith to cloud-hosted microservices.
 
 <a href="https://github.com/organizedanvrchy/Insurance-Full-Stack-App-MSA">
   <img alt="KVB Insurance: RAINsurance rebuilt as cloud-hosted microservices, as a team of three" src="assets/kvb-insurance.png" width="100%">
 </a>
 
-**[KVB Insurance](https://github.com/organizedanvrchy/Insurance-Full-Stack-App-MSA)** · *team of 3* · [Live site](https://salmon-grass-0f7ae9d1e.6.azurestaticapps.net)<br>
-RAINsurance rebuilt as 7 microservices behind a YARP API gateway, with events (RabbitMQ / Azure Service Bus), a saga and transactional outbox, a simulated checkout, email notifications, and CI/CD from GitHub Actions to Azure Container Apps.
+**[KVB Insurance](https://github.com/organizedanvrchy/Insurance-Full-Stack-App-MSA)** · Team of 3 · [Live site](https://salmon-grass-0f7ae9d1e.6.azurestaticapps.net)<br>
+RAINsurance rebuilt as 7 microservices behind an API gateway, with an event bus, a saga and transactional outbox, a simulated checkout, email notifications, and CI/CD to Azure.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/organizedanvrchy/Insurance-Full-Stack-App">
-        <img alt="RAINsurance: a full-stack insurance platform" src="assets/rainsurance.png" width="100%">
-      </a>
+      <a href="https://github.com/organizedanvrchy/Insurance-Full-Stack-App"><img alt="RAINsurance" src="assets/rainsurance.png" width="100%"></a>
       <b><a href="https://github.com/organizedanvrchy/Insurance-Full-Stack-App">RAINsurance</a></b><br>
-      Full-stack insurance platform: personalized quotes, policies, premium schedules and a claims review workflow. ASP.NET Core Web API, Angular, ADO.NET and SQL Server.
+      Full-stack insurance platform: personalized quotes, policies, premium schedules and claims review.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/organizedanvrchy/project1.1">
-        <img alt="Console Banking Application" src="assets/console-banking.png" width="100%">
-      </a>
+      <a href="https://github.com/organizedanvrchy/project1.1"><img alt="Console Banking Application" src="assets/console-banking.png" width="100%"></a>
       <b><a href="https://github.com/organizedanvrchy/project1.1">Console Banking Application</a></b><br>
-      Retail banking for customers and admins: deposits, withdrawals, transfers and cheque books. C#, .NET, EF Core (code-first, TPH) and SQL Server.
+      Retail banking for customers and admins, with EF Core code-first and TPH inheritance.
     </td>
   </tr>
 </table>
 
-### 🎓 University projects
+### Syracuse University
+**M.S. Computer Science** · College of Engineering and Computer Science · 2023 – 2025
 
-| Project | Built with | Year |
-|---|---|:---:|
-| [Ensemble-Based Face Authentication for POS Security](https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems): neural network + one-class SVM ensemble | Python | 2025 |
-| [Tennis App (Demo)](https://github.com/organizedanvrchy/TennisAppDemo-Android-): Android app for CSE682 Software Engineering | Kotlin | 2025 |
-| [Instruction Set Project](https://github.com/organizedanvrchy/cis-655-instruction-set): CIS655 Advanced Computer Architecture | C++ | 2024 |
-| [Object-Oriented Design Project](https://github.com/organizedanvrchy/Object-Oriented-Design-Project): CSE687 Object Oriented Design | C++ | 2024 |
+| Area | Coursework |
+|---|---|
+| Foundations | Programming & Data Structures · Design & Analysis of Algorithms |
+| Software | Object-Oriented Design · Software Engineering · Assured Programming & Formal Methods |
+| Systems | Advanced Computer Architecture · Principles of Operating Systems |
+| Security & ML | Computer Security · Cryptography · Biometrics · Machine Learning for Security |
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems"><img alt="Face Authentication for POS Security" src="assets/su-face-auth.png" width="100%"></a>
+      <b><a href="https://github.com/organizedanvrchy/Face-Authentication-for-POS-Systems">Face Authentication for POS Security</a></b><br>
+      ArcFace embeddings with a One-Class SVM and neural network ensemble, hardened by data augmentation.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/organizedanvrchy/TennisAppDemo-Android-"><img alt="Tennis App for Android" src="assets/su-tennis.png" width="100%"></a>
+      <b><a href="https://github.com/organizedanvrchy/TennisAppDemo-Android-">Tennis App for Android</a></b><br>
+      Player and tournament statistics in Kotlin and Jetpack Compose, with Firebase accounts.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/organizedanvrchy/cis-655-instruction-set"><img alt="Custom CPU Instruction Set" src="assets/su-instruction-set.png" width="100%"></a>
+      <b><a href="https://github.com/organizedanvrchy/cis-655-instruction-set">Custom CPU Instruction Set</a></b><br>
+      A C++ parser, ALU and emulator for a custom instruction set.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/organizedanvrchy/Object-Oriented-Design-Project"><img alt="MapReduce in C++" src="assets/su-mapreduce.png" width="100%"></a>
+      <b><a href="https://github.com/organizedanvrchy/Object-Oriented-Design-Project">MapReduce in C++</a></b><br>
+      A word-count MapReduce engine built in four phases, from a CLI to a controller–stub design.
+    </td>
+  </tr>
+</table>
+
+Course notes and assignments: [SU-CIS-CSE](https://github.com/organizedanvrchy/SU-CIS-CSE)
+
+### CUNY York College
+**B.S. Biology**, minor in Mathematics · 2015 – 2019
+
+### Amazon CodePath
+**[TIP103: Advanced Technical Interview Prep](https://github.com/organizedanvrchy/CodePath/tree/main/TIP103#table-of-contents)** · Fall 2024
+
+## More Projects
 
 <details>
-<summary><b>🧪 More projects: systems and tiny apps</b></summary>
+<summary>Systems projects and small apps</summary>
 <br>
 
-| Project | Built with | Year |
+| Project | Language | Year |
 |---|---|:---:|
-| [RainOS](https://github.com/organizedanvrchy/rain_os): a hobby operating system | Rust | 2025 |
+| [RainOS](https://github.com/organizedanvrchy/rain_os) | Rust | 2025 |
 | [Rainy UNIX Shell](https://github.com/organizedanvrchy/rainy_shell) | C | 2025 |
 | [Simple Text Editor](https://github.com/organizedanvrchy/Text-Editor-Python) | Python | 2025 |
 | [Simple Regex Parser](https://github.com/organizedanvrchy/Regex-Parser-Python) | Python | 2025 |
@@ -90,24 +134,7 @@ RAINsurance rebuilt as 7 microservices behind a YARP API gateway, with events (R
 | [Tic-Tac-Toe](https://github.com/organizedanvrchy/TicTacToe) | C | 2025 |
 | [Snake](https://github.com/organizedanvrchy/TicTacToe) | Python | 2025 |
 | [Pong](https://github.com/organizedanvrchy/Pong) | Python | 2025 |
-| [Chess with an AI opponent](https://github.com/organizedanvrchy/Chess) | Python | 2025 |
+| [Chess with an AI Opponent](https://github.com/organizedanvrchy/Chess) | Python | 2025 |
 
-➡️ [All projects](https://github.com/organizedanvrchy/Projects)
+[All projects](https://github.com/organizedanvrchy/Projects)
 </details>
-
----
-
-## 📚 Education & training
-
-**[Syracuse University](https://github.com/organizedanvrchy/SU-CIS-CSE)**: M.S. Computer Science, College of Engineering and Computer Science (2023–2025)
-
-| Area | Courses |
-|---|---|
-| Foundations | Programming & Data Structures · Design & Analysis of Algorithms |
-| Software | [Object Oriented Design](https://github.com/organizedanvrchy/Object-Oriented-Design-Project) · [Software Engineering](https://github.com/organizedanvrchy/TennisAppDemo-Android-) · [Assured Programming & Formal Methods](https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS623%20-%20Assured%20Programming%20with%20Formal%20Methods) |
-| Systems | [Advanced Computer Architecture](https://github.com/organizedanvrchy/cis-655-instruction-set) · Principles of Operating Systems |
-| Security & ML | Computer Security · Cryptography · [Biometrics](https://github.com/organizedanvrchy/SU-CIS-CSE/tree/main/CIS663%20-%20Biometrics) · Machine Learning for Security |
-
-**[Amazon CodePath](https://github.com/organizedanvrchy/CodePath)**: [TIP103 Advanced Technical Interview Prep](https://github.com/organizedanvrchy/CodePath/tree/main/TIP103#table-of-contents) (Fall 2024)
-
-**Revature**: .NET Full Stack training (2026)
